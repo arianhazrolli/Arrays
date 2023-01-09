@@ -49,3 +49,4 @@ $array2d = [
 // echo $array2d['Arian'];
 
 
+$arreytest = ['Arian', 'Fisi'];
